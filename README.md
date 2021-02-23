@@ -8,10 +8,10 @@
 ![Opera Snapshot_2021-02-24_024723_localhost](https://user-images.githubusercontent.com/79537614/108899743-5b38b580-764b-11eb-90c5-f79e1423ac6b.png)
 
 ## Admin
-![Opera Snapshot_2021-02-24_024755_localhost](https://user-images.githubusercontent.com/79537614/108899747-5bd14c00-764b-11eb-955b-7ae5074e2189.png)
+![Opera Snapshot_2021-02-24_043854_localhost](https://user-images.githubusercontent.com/79537614/108911792-55969c00-765a-11eb-91a4-77c3f31989ce.png)
 
 ## Add Data
-![Opera Snapshot_2021-02-24_024845_localhost](https://user-images.githubusercontent.com/79537614/108899749-5c69e280-764b-11eb-99be-636c585160c1.png)
+![Opera Snapshot_2021-02-24_043929_localhost](https://user-images.githubusercontent.com/79537614/108911798-57605f80-765a-11eb-8ab9-2d12b6052383.png)
 
-## Report
+## Wakaf Report
 ![Opera Snapshot_2021-02-24_025515_localhost](https://user-images.githubusercontent.com/79537614/108900089-ca160e80-764b-11eb-83c1-1b12a6986b6e.png)
