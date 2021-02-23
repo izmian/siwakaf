@@ -1,5 +1,5 @@
 ## HOME
-![Opera Snapshot_2021-02-24_024604_localhost](https://user-images.githubusercontent.com/79537614/108899303-dcdc1380-764a-11eb-9e95-b68d1397eca7.png)
+![image_2021-02-24_041506](https://user-images.githubusercontent.com/79537614/108909231-e0759780-7656-11eb-919c-587379911585.png)
 
 ## Wakaf Table
 ![Opera Snapshot_2021-02-24_024712_localhost](https://user-images.githubusercontent.com/79537614/108899736-596ef200-764b-11eb-8e88-2806668e02a0.png)
