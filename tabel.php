@@ -182,7 +182,7 @@ if (mysqli_connect_errno()){
               <img class="img-fluid" src="img/268px-Kementerian_Agama_new_logo.png" width="70" height="70">
             </li>
           </ul>
-          <p class="copyright text-muted">Copyright &copy; SIGWAKAF 2020</p>
+          <p class="copyright text-muted">Copyright &copy; SIWAKAF 2020</p>
         </div>
       </div>
     </div>
