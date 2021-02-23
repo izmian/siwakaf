@@ -28,7 +28,7 @@ exit();
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-	<title>Login SIG Wakaf</title>
+	<title>Login SI Wakaf</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
