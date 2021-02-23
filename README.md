@@ -12,3 +12,6 @@
 
 ## Add Data
 ![Opera Snapshot_2021-02-24_024845_localhost](https://user-images.githubusercontent.com/79537614/108899749-5c69e280-764b-11eb-99be-636c585160c1.png)
+
+## Report
+![Opera Snapshot_2021-02-24_025515_localhost](https://user-images.githubusercontent.com/79537614/108900089-ca160e80-764b-11eb-83c1-1b12a6986b6e.png)
