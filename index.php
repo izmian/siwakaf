@@ -67,7 +67,7 @@
       <div class="row">
         <div class="col-lg-15 col-md-12 mx-auto">
           <div class="site-heading">
-            <h1 style="font-size:5vw"> <h1 style="font-family:perpetua;">Sistem Informasi Geografis Manajemen Aset Wakaf</h1>
+            <h1 style="font-size:5vw"> <h1 style="font-family:perpetua;">Sistem Informasi Manajemen Aset Wakaf</h1>
             <span class="subheading" style="font-family:optima;">Kantor Urusan Agama Kecamatan X</span>
           </div>
         </div>
