@@ -634,7 +634,7 @@ if (mysqli_connect_errno()){
                 <footer class="py-4 bg-light mt-auto">
                     <div class="container-fluid">
                         <div class="d-flex align-items-center justify-content-between small">
-                            <div class="text-muted">Copyright &copy; SIGWAKAF 2020</div>
+                            <div class="text-muted">Copyright &copy; SIWAKAF 2020</div>
                             <div>
                                 <a href="#">Privacy Policy</a>
                                 &middot;
