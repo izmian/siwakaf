@@ -1,2 +1,2 @@
-# sigwakaf
-SIG wakaf berbasis web
+# siwakaf
+Sistem informasi manajemen aset wakaf berbasis web
