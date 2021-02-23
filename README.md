@@ -17,5 +17,5 @@
 ![Opera Snapshot_2021-02-24_025515_localhost](https://user-images.githubusercontent.com/79537614/108900089-ca160e80-764b-11eb-83c1-1b12a6986b6e.png)
 
 ##Login admin
-* username : admin
-* password : admin
+- username : admin
+- password : admin
