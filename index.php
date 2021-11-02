@@ -80,9 +80,14 @@
       <div class="row">
         <div class="col-lg-15 col-md-12 mx-auto">
           <ul class="list-inline text-center">
-          <h2 class="section-heading" style="font-size:3vw">Peta Persebaran Tanah Wakaf Kecamatan X</h2>
+          <h2 class="section-heading" style="font-size:3vw">Peta Batas Wilayah Kecamatan X</h2>
           <br>
-          <img src="img/peta laweyan_surakarta.png" align="center" width="900px" height="600px">
+          <br>
+          <img src="img/1_kecamatan x.png" align="center" width="700px" height="500px">
+          <br>
+          <br>
+          <br>
+          <br>
         </div>
       </div>
     </div>
