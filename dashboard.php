@@ -93,10 +93,6 @@ $Kelurahan  = mysqli_query($koneksi, "SELECT kelurahan FROM wakaf order by id_wa
                                 </a>
                                 </nav>
                             </div>
-                            <a class="nav-link" href="peta.php" style="font-size: 16px;">
-                                <div class="sb-nav-link-icon" style="font-size: 12px;"><i class="fa fa-map" fa-5x></i></div>
-                                Peta
-                            </a>
                             <div class="sb-sidenav-menu-heading" style="font-size: 11px;">Laporan</div>
                             <a class="nav-link" href="lapwakaf.php" style="font-size: 16px;">
                                 <div class="sb-nav-link-icon" style="font-size: 12px;"><i class="fas fa-table" fa-5x></i></div>
